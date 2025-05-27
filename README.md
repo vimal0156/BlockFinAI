@@ -1,5 +1,4 @@
 # BlockFinAI
-<img src="images/chartscan.png" alt="BlockFinAI Logo" width="200"/>
 
 
 ## Overview
